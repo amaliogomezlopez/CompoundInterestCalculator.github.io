@@ -18,7 +18,7 @@ https://www.investor.gov/financial-tools-calculators/calculators/compound-intere
 
 
 
-## Screenshots
+## USA web para calcular el interés compuesto
 
 ![Compound Interest Calculator](https://i.ibb.co/2cQgGdj/INVESTUSA.png)
 

@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora de Interés Compuesto</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        #calculator {
+            text-align: center;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        input {
+            padding: 8px;
+            margin: 5px;
+            width: 200px;
+        }
+
+        button {
+            padding: 10px;
+            margin: 5px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+
+<div id="calculator">
+    <h2>Calculadora de Interés Compuesto</h2>
+    <label for="principal">Cantidad principal:</label>
+    <input type="number" id="principal" placeholder="Ingrese la cantidad principal">
+
+    <label for="rate">Tasa de interés (%):</label>
+    <input type="number" id="rate" placeholder="Ingrese la tasa de interés">
+
+    <label for="time">Tiempo (años):</label>
+    <input type="number" id="time" placeholder="Ingrese el tiempo en años">
+
+    <button onclick="calcularInteres()">Calcular</button>
+
+    <h3 id="result"></h3>
+
+    <script>
+        function piezaFormula(x) {
+            while (x <= 0 || isNaN(x)) {
+                x = parseFloat(prompt(`Ingrese ${x}:`));
+                if (x <= 0 || isNaN(x)) {
+                    alert(`${x} debe ser un número mayor que 0`);
+                }
+            }
+            return x;
+        }
+
+        function calcularInteres() {
+            const principal = piezaFormula(document.getElementById('principal').value);
+            const rate = piezaFormula(document.getElementById('rate').value);
+            const time = piezaFormula(document.getElementById('time').value);
+
+            const result = principal * Math.pow((1 + rate / 100), time);
+            document.getElementById('result').innerHTML = `Interés Compuesto: ${result.toFixed(2)}`;
+        }
+
+        function calculateInterest() {
+            try {
+                calcularInteres();
+            } catch (error) {
+                alert("Ops! Un error, compruebe y cambie los números introducidos, por favor.");
+            }
+        }
+    </script>
+</div>
+
+</body>
+</html>

@@ -2,7 +2,7 @@
 
 (English brief intro) A compound interest calculator in which you need to introduce amount, rate and years to return the total
 
-# INTRODUCCIÓN
+# INTRODUCCIÓN Y EXPLICACIÓN
 
 Con la inflación, el precio de todo que sube y los salarios que se mantienen, todos nos planteamos invertir y poner a trabajar nuestro dinero. ¿No te preguntas cuánto dinero podrías ganar invirtiendo durante algunos años?
 
@@ -14,8 +14,7 @@ La idea de este mini proyecto sale de una página del gobierno de USA:
 https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator
 
 
-
-
+La app ha sido creado en HTML y las funciones en Python, se han traducido a JavaScript para una fácil integración sin usar Flask o Django.
 
 
 ## USA web para calcular el interés compuesto

@@ -19,7 +19,7 @@ https://www.investor.gov/financial-tools-calculators/calculators/compound-intere
 ![Compound Interest Calculator](https://i.ibb.co/2cQgGdj/INVESTUSA.png)
 
 # FÓRMULA
-La fórmula del interés compuesto es la siguiente:
+En la siguiete imagen podemos ver la diferencaia entre la fórmula del interés simple y el compuesto usado para calcularlo:
 
 
-![FÓRMULA](https://ikiwi.net.ar/wp-content/uploads/formula-interes-compuesto.png)
+![FÓRMULA]([https://ikiwi.net.ar/wp-content/uploads/formula-interes-compuesto.png](https://hablemosdeempresas.com/wp-content/uploads/sites/2/2020/08/interes-simple-e-interes-compuesto-formulas.png)https://hablemosdeempresas.com/wp-content/uploads/sites/2/2020/08/interes-simple-e-interes-compuesto-formulas.png)

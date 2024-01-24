@@ -1,6 +1,6 @@
 # COMPOUND INTEREST CALCULATOR
 
-A compound interest calculator in which you need to introduce amount, rate and years to return the total
+(English brief intro) A compound interest calculator in which you need to introduce amount, rate and years to return the total
 
 # INTRODUCCIÓN
 

@@ -14,7 +14,7 @@ La idea de este mini proyecto sale de una página del gobierno de USA:
 https://www.investor.gov/financial-tools-calculators/calculators/compound-interest-calculator
 
 
-La app ha sido creado en HTML y las funciones en Python, se han traducido a JavaScript para una fácil integración sin usar Flask o Django.
+La app ha sido creada en HTML y las funciones en Python, se han traducido a JavaScript para una fácil integración sin usar Flask o Django.
 
 
 ## USA web para calcular el interés compuesto

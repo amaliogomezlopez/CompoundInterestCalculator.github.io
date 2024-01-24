@@ -22,4 +22,4 @@ https://www.investor.gov/financial-tools-calculators/calculators/compound-intere
 En la siguiete imagen podemos ver la diferencaia entre la fórmula del interés simple y el compuesto usado para calcularlo:
 
 
-![FÓRMULA]([https://ikiwi.net.ar/wp-content/uploads/formula-interes-compuesto.png](https://hablemosdeempresas.com/wp-content/uploads/sites/2/2020/08/interes-simple-e-interes-compuesto-formulas.png)https://hablemosdeempresas.com/wp-content/uploads/sites/2/2020/08/interes-simple-e-interes-compuesto-formulas.png)
+![FÓRMULA](https://hablemosdeempresas.com/wp-content/uploads/sites/2/2020/08/interes-simple-e-interes-compuesto-formulas.png)

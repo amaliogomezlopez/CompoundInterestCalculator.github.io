@@ -2,6 +2,8 @@
 
 (English brief intro) A compound interest calculator in which you need to introduce amount, rate and years to return the total
 
+My Compound interest calculator app URL: https://amaliogomezlopez.github.io/compoundinterestcalculator.github.io/
+
 # INTRODUCCIÓN Y EXPLICACIÓN
 
 Con la inflación, el precio de todo que sube y los salarios que se mantienen, todos nos planteamos invertir y poner a trabajar nuestro dinero. ¿No te preguntas cuánto dinero podrías ganar invirtiendo durante algunos años?
